@@ -1,0 +1,25 @@
+.navbar {
+    float: right;
+    background: transparent !important;
+    border-color: transparent !important;
+    font-size: 120%;
+}
+
+.logo {
+    height: 30px;
+    float: left;
+    margin: 20px;
+}
+
+.header-text {
+    margin-top: 200px;
+    padding: 100px;
+}
+
+h1 {
+    font-size: 50px !important;
+}
+
+.submit-btn {
+    height: 46px;
+}
