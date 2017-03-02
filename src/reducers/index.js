@@ -4,7 +4,7 @@ import userInformation from './userInformationReducer';
 
 const rootReducer = combineReducers({
     userInformation,
-    router: routerReducer
+    routing: routerReducer
 });
 
 export default rootReducer;
